@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nilkanth Suthar! 👋</h1>
-<h3 align="center">AI Solutions Engineer | ML & GenAI Enthusiast | Applied Computing @ UWin</h3>
+<h3 align="center">AI Solutions Engineer | ML & GenAI | Certified AI Developer | Applied Computing (AI Stream) @ UWin</h3>
 
 <p align="center">
   <a href="mailto:suthar93@uwindsor.ca">
@@ -33,7 +33,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -57,22 +56,6 @@
 - Designed **CNN & RNN-based AI models** for predictive maintenance in **IoT** systems.  
 - Developed **computer vision models** (YOLO, OpenCV) for **automated quality inspection**, improving accuracy by **15%**.  
 - Implemented **TensorFlow and PyTorch-based AI solutions** for scalable AI-driven applications.  
-
----
-
-## 📌 Projects
-
-### 🔹 **NFC Tasker**
-**Tech:** Raspberry Pi, NFC, Flask, ReactJS, C, Linux  
-- Built an **IoT-based smart home automation system** integrating **NFC** with Raspberry Pi.  
-- Developed **low-level software modules** for secure data exchange and **remote device control**.  
-- Created a **React Native mobile app** for seamless remote management of appliances.
-
-### 🔹 **Character Recognition System**
-**Tech:** LSTM, Neural Networks, Python  
-- Designed a **handwritten digit recognition system** using **CNN-based image classification**.  
-- Trained the model on augmented data, achieving **91% accuracy** with **optimized hyperparameters**.  
-- Built a **Tkinter-based GUI** for real-time digit input and prediction display.  
 
 ---
 
