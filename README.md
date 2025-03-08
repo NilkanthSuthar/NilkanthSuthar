@@ -43,34 +43,7 @@
 
 ---
 
-## 🏢 Experience
-
-### **AI Solutions Engineer** @ Reliance Industries *(Dec 2023 - Jul 2024)*
-- Developed an **ML-driven Production Loss Analyzer**, increasing manufacturing throughput by **25%**.  
-- Fine-tuned **Transformers, XGBoost, Random Forest, and Deep Neural Networks** for cost-saving insights.  
-- Engineered **ML APIs** to process structured/unstructured data and deliver **real-time KPI analysis**.  
-- Integrated ML solutions with **Oracle, Apache Kafka, and Spark streaming pipelines** for automated ETL workflows.  
-- Pioneered a **custom GenAI-powered solution** to optimize analytics and decision-making.
-
-### **Student Developer** @ SAP *(Jan 2023 - Aug 2023)*
-- Designed **CNN & RNN-based AI models** for predictive maintenance in **IoT** systems.  
-- Developed **computer vision models** (YOLO, OpenCV) for **automated quality inspection**, improving accuracy by **15%**.  
-- Implemented **TensorFlow and PyTorch-based AI solutions** for scalable AI-driven applications.  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NilkanthSuthar&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
 ## 📫 Get in Touch
 📩 **Email:** [suthar93@uwindsor.ca](mailto:suthar93@uwindsor.ca)  
 💼 **LinkedIn:** [Nilkanth Suthar](https://linkedin.com/in/nilkanthsuthar)  
 🐙 **GitHub:** [NilkanthSuthar](https://github.com/NilkanthSuthar)  
-
----
-
-🌟 **Let's innovate and build AI solutions that make an impact!** 🚀
