@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Nilkanth Suthar! 👋</h1>
-<h3 align="center">AI Solutions Engineer | ML & GenAI | Certified AI Developer | Applied Computing (AI Stream) @ UWin</h3>
+<h1 align="center">Hi, I'm Nilkanth Suthar</h1>
+<h3 align="center">AI Solutions Engineer • Machine-Learning Tinkerer • Certified Model-Whisperer • MSc Applied Computing (AI) @ UWin</h3>
 
 <p align="center">
   <a href="mailto:suthar93@uwindsor.ca">
@@ -15,12 +15,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I am an **AI Solutions Engineer** with a strong background in **Machine Learning**, **Deep Learning**, and **Generative AI**. I specialize in designing and deploying scalable AI systems, real-time analytics pipelines, and AI-driven applications. Currently pursuing my Master’s in Applied Computing (AI Stream) at the University of Windsor.
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 | Project | Tech Stack | Description | Link |
 | ------- | ---------- | ----------- | ---- |
@@ -37,7 +37,7 @@ I am an **AI Solutions Engineer** with a strong background in **Machine Learning
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -53,20 +53,11 @@ I am an **AI Solutions Engineer** with a strong background in **Machine Learning
 
 ---
 
-## 🏆 Certifications
-
-- **IBM AI Developer Professional Certificate** (2024)  
-- **IBM Data Science Professional Certificate** (2023)  
-- **Google Advanced Data Analytics Professional Certificate** (2023)  
-
----
-
-## 📫 Get in Touch
+## Get in Touch
 
 - **Email:** [suthar93@uwindsor.ca](mailto:suthar93@uwindsor.ca)  
 - **LinkedIn:** [Nilkanth Suthar](https://linkedin.com/in/nilkanthsuthar)  
-- **GitHub:** [@NilkanthSuthar](https://github.com/NilkanthSuthar)  
 
 ---
 
-*Thank you for visiting my profile!*
+*If you made it this far, you’re probably as curious as I am — let’s build something remarkable.*
