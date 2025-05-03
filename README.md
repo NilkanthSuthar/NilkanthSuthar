@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nilkanth Suthar</h1>
-<h3 align="center">AI Solutions Engineer • Machine-Learning Tinkerer • Certified Model-Whisperer • MSc Applied Computing (AI) @ UWin</h3>
+<h3 align="center">AI Solutions Engineer | ML & NLP | Certified AI Developer | Masters in Applied Computing @ UWin</h3>
 
 <p align="center">
   <a href="mailto:suthar93@uwindsor.ca">
