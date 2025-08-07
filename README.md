@@ -29,9 +29,6 @@ I am a **Certified AI Solutions Engineer** passionate about transforming complex
 
 ## Featured Projects
 
-<details>
-<summary><b>Click to explore my key projects</b></summary>
-
 ### **Advanced Machine Learning & AI Research**
 | Project | Technologies | Impact | Repository |
 |---------|-------------|---------|------------|
@@ -66,8 +63,6 @@ I am a **Certified AI Solutions Engineer** passionate about transforming complex
 |---------|-------------|---------|------------|
 | **Bank Management System v1** | `Java` `OOP` `CLI` | Robust banking application with comprehensive account management features | [View Repository](https://github.com/NilkanthSuthar/Bank-Management-System-v1) |
 | **IBM Data Science Capstone** | `Python` `Data Science` `MLOps` | Comprehensive data science project covering full ML lifecycle | [View Repository](https://github.com/NilkanthSuthar/IBM-Data-Science-Capstone-Project) |
-
-</details>
 
 ---
 
@@ -106,7 +101,6 @@ I am a **Certified AI Solutions Engineer** passionate about transforming complex
 
 **Email:** [nilkanthsuthar@protonmail.com](mailto:nilkanthsuthar@protonmail.com)  
 **LinkedIn:** [Nilkanth Suthar](https://linkedin.com/in/nilkanthsuthar)  
-**Location:** Windsor, Ontario, Canada
 
 ---
 
