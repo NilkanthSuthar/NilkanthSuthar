@@ -3,7 +3,7 @@
 # Nilkanth Suthar
 ### AI Solutions Engineer | Machine Learning & NLP Specialist | Applied Computing Graduate Student
 
-[![Email](https://img.shields.io/badge/Email-suthar93%40uwindsor.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilkanthsuthar@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-nilkanthsuthar%40protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilkanthsuthar@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilkanth%20Suthar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilkanthsuthar)
 [![GitHub](https://img.shields.io/badge/GitHub-NilkanthSuthar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NilkanthSuthar)
 
