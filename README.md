@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilkanth%20Suthar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilkanthsuthar)
 [![GitHub](https://img.shields.io/badge/GitHub-NilkanthSuthar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NilkanthSuthar)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NilkanthSuthar&color=blueviolet&style=for-the-badge&abbreviated=true)
+## ![Profile Views](https://komarev.com/ghpvc/?username=NilkanthSuthar&color=blueviolet&style=for-the-badge&abbreviated=true)
 
 </div>
 
