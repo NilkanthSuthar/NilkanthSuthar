@@ -2,9 +2,7 @@
 
 AI Engineer who builds things that actually work.
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=NilkanthSuthar&color=blueviolet&style=for-the-badge&abbreviated=true) -->
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nilkanthsuthar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nilkanthsuthar) [![Email](https://img.shields.io/badge/Email-nilkanthsuthar%40protonmail.com-8B89CC?style=flat)](mailto:nilkanthsuthar@protonmail.com)
 
 ---
 
