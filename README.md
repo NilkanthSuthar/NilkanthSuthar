@@ -1,16 +1,17 @@
-# Nilkanth Suthar
+Been into tech since I was 11. Started by rooting Android phones and compiling custom kernels just because I needed to know how things worked under the hood. Never really stopped.
 
-AI Engineer who builds things that actually work.
+These days I build production LLM systems and agent architectures. Multi-agent orchestration, RAG pipelines, AI systems and MCP servers.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nilkanthsuthar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nilkanthsuthar) [![Email](https://img.shields.io/badge/Email-ndsuthar@outlook.com-red?style=flat&logo=gmail)](mailto:ndsuthar@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-nilkanthsuthar.github.io-green?style=flat&logo=google-chrome)](https://nilkanthsuthar.github.io)
+First to know about any interesting hardware or framework release, always have been.
+
+**Currently exploring:** Advanced AI agent patterns, TurboQuant, Rust for systems work, and whatever drops next.
 
 ---
+Outside Engineering:
 
-I spend most of my time building production ML systems and RAG pipelines. Really into multi-agent orchestration with LangChain, making vector databases fast, and figuring out how to make LLMs reliable enough for real use cases.
+Barça since childhood. Watched the trebles, cheered at the 6-1 comeback, had to somehow process Messi's departure. Still watching every game, still believing in the rebuild.
 
-Also mess around with graph neural networks, distributed systems, PySpark pipelines, microservices architecture, and whatever interesting ML problem shows up. Built everything from COBOL-to-microservice migration tools to multimodal AI systems.
-
-**Currently exploring:** LangGraph for complex agent workflows, Rust for systems programming, and optimizing vector search at scale.
+Mercedes in F1. Stayed through the porpoising era, stayed through the W14 being completely undriveable. Kimi for the win. We move.
 
 ---
 
@@ -69,23 +70,3 @@ LSTM neural network for financial time series forecasting with data preprocessin
 Web application for tracking sustainable living goals and building an eco-friendly community.
 
 </details>
-
----
-
-## Tech Stack
-
-**Languages:** Python, TypeScript, JavaScript, C#, SQL, C
-
-**GenAI/LLM:** LangChain, LangGraph, LangSmith, AutoGen, CrewAI, OpenAI, Claude, Gemini, Llama, Hugging Face, MCP
-
-**RAG/Vector:** FAISS, Pinecone, Chroma, Weaviate, BERT embeddings, semantic search
-
-**ML/Data:** PyTorch, TensorFlow, scikit-learn, PySpark, Databricks, Kafka, pandas
-
-**Backend:** FastAPI, Flask, Django, Next.js, Node.js, ASP.NET Core, GraphQL
-
-**Cloud/DevOps:** AWS, Azure, GCP (Vertex AI), Docker, Kubernetes, FluxCD, GitHub Actions, Azure DevOps
-
-**Databases:** PostgreSQL, MongoDB, Redis, Vector DBs
-
-**What I'm actually good at:** Building production RAG systems, multi-agent orchestration, MLOps pipelines, microservices architecture, making LLMs reliable enough for enterprise use
